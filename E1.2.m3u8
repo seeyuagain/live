@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2560000
-http://akamai2-me.cdn.booyah.live/hls/1700003/120538819.m3u8
+https://live-ak.vimeocdn.com/exp=1661604195~acl=%2F08acd8e8-bfc8-49eb-967b-cb4adac9c2cd%2F%2A~hmac=88a44d11edff00c1d1b7b3e14bb363c5c4048c243d65c17876d72313b0664e7b/08acd8e8-bfc8-49eb-967b-cb4adac9c2cd/chunklist_b2056000.m3u8?max_segments=10
