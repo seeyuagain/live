@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2560000
-https://d25o49nvomuqf9.cloudfront.net/out/v1/8d10295729b9444b8636cb737a9e021f/index_10.m3u8
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1661569917~exp=9007200916310908~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=f113fc0f519fae1523b61e56cb8f0869e9bee470133300645d4cddcd2edf1732
