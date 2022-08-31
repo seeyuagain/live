@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2560000
-https://live-ak.vimeocdn.com/exp=1661609014~acl=%2F08acd8e8-bfc8-49eb-967b-cb4adac9c2cd%2F%2A~hmac=e6e37a8be3da9e96ba29863ac8c457c25e626c29ded9352fe92942a9dda363f4/08acd8e8-bfc8-49eb-967b-cb4adac9c2cd/chunklist_b3256000.m3u8?max_segments=10
+https://bcovlive-a.akamaihd.net/60314b1553614da58b820a19f65ff2d5/ap-southeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1661907392~exp=9007200916648383~acl=/60314b1553614da58b820a19f65ff2d5/*/profile_1/chunklist.m3u8*~hmac=862fb4daca9ba85061df513a8260f3f8e58f7311de44096dab8a37c8979d5415
