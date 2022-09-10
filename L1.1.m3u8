@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2560000
-https://460598949f82.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.726782747956.channel.a8TGJcOF3H6U.m3u8?&m=1
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2560000https://460598949f82.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.726782747956.channel.a8TGJcOF3H6U.m3u8?&m=1
+https://etslive-2-vidio-com.akamaized.net/exp=1662822448~acl=/hls-p/ingest_9308_*/*~hmac=16622e275f7d03fc468fb1ef16e35a69f505f837b432f374c6a78d7ba53199d6/hls-p/ingest_9308_720p/index.m3u8?&m=1
